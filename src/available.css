@@ -1,0 +1,12 @@
+.booklist{
+    text-align: center;
+    width: 100px;
+    display:inline-flex;
+        align-items: center;
+}
+
+.heading{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
